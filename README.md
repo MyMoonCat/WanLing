@@ -8,12 +8,27 @@
 
 ## 自动更新
 
-本仓库的 Release 是客户端自动更新源：
+客户端启动时会静默检查本仓库最新 Release 中的 `latest.json`：
 
-- 每个版本上传：`WanLing.exe`（或 `WanLing-vX.Y.Z.exe`）
-- 附带 `latest.json`（version / url / sha256）
+```json
+{
+  "version": "1.0.1",
+  "url": "https://github.com/MyMoonCat/WanLing/releases/download/v1.0.1/WanLing.exe",
+  "sha256": "..."
+}
+```
 
-用户数据保存在 `%LocalAppData%\万灵`，更新 exe 不会清空配置。
+清单地址：`https://github.com/MyMoonCat/WanLing/releases/latest/download/latest.json`
+
+用户数据在 `%LocalAppData%\万灵`，替换 exe 不会清空配置。
+
+## 发布新版本
+
+在构建出的绿色 `WanLing.exe` 上执行：
+
+```powershell
+.\ZhuXianFishingCpp\tools\publish_release.ps1 -ExePath .\WanLing.exe -Version 1.0.1
+```
 
 ## 仓库用途
 
