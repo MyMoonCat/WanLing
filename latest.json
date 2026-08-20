@@ -1,0 +1,11 @@
+{
+  "version": "1.0.5",
+  "url": "https://cdn.jsdelivr.net/gh/MyMoonCat/WanLing@cdn/v1.0.5/WanLing.exe",
+  "urls": [
+    "https://cdn.jsdelivr.net/gh/MyMoonCat/WanLing@cdn/v1.0.5/WanLing.exe",
+    "https://ghfast.top/https://github.com/MyMoonCat/WanLing/releases/download/v1.0.5/WanLing.exe",
+    "https://ghproxy.net/https://github.com/MyMoonCat/WanLing/releases/download/v1.0.5/WanLing.exe",
+    "https://github.com/MyMoonCat/WanLing/releases/download/v1.0.5/WanLing.exe"
+  ],
+  "sha256": "ec8b6e04656979e8b4207ca19c3d54bca1c540ae500884ac15a144a4ed3ab4d6"
+}
