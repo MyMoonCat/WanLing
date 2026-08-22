@@ -1,13 +1,13 @@
 {
-  "version": "1.0.5",
-  "url": "https://ghfast.top/https://github.com/MyMoonCat/WanLing/releases/download/v1.0.5/WanLing.exe",
+  "version": "1.0.6",
+  "url": "https://ghfast.top/https://raw.githubusercontent.com/MyMoonCat/WanLing/cdn/v1.0.6/WanLing.exe",
   "urls": [
-    "https://ghfast.top/https://raw.githubusercontent.com/MyMoonCat/WanLing/cdn/v1.0.5/WanLing.exe",
-    "https://ghproxy.net/https://raw.githubusercontent.com/MyMoonCat/WanLing/cdn/v1.0.5/WanLing.exe",
-    "https://raw.githubusercontent.com/MyMoonCat/WanLing/cdn/v1.0.5/WanLing.exe",
-    "https://ghfast.top/https://github.com/MyMoonCat/WanLing/releases/download/v1.0.5/WanLing.exe",
-    "https://ghproxy.net/https://github.com/MyMoonCat/WanLing/releases/download/v1.0.5/WanLing.exe",
-    "https://github.com/MyMoonCat/WanLing/releases/download/v1.0.5/WanLing.exe"
+    "https://ghfast.top/https://raw.githubusercontent.com/MyMoonCat/WanLing/cdn/v1.0.6/WanLing.exe",
+    "https://ghproxy.net/https://raw.githubusercontent.com/MyMoonCat/WanLing/cdn/v1.0.6/WanLing.exe",
+    "https://raw.githubusercontent.com/MyMoonCat/WanLing/cdn/v1.0.6/WanLing.exe",
+    "https://ghfast.top/https://github.com/MyMoonCat/WanLing/releases/download/v1.0.6/WanLing.exe",
+    "https://ghproxy.net/https://github.com/MyMoonCat/WanLing/releases/download/v1.0.6/WanLing.exe",
+    "https://github.com/MyMoonCat/WanLing/releases/download/v1.0.6/WanLing.exe"
   ],
-  "sha256": "ec8b6e04656979e8b4207ca19c3d54bca1c540ae500884ac15a144a4ed3ab4d6"
+  "sha256": "dd0c529fe224bb607e31c39cc81835dfa5af3a4881a23db3ecf58414b4cb4a6f"
 }
